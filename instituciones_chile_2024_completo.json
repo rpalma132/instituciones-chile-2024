@@ -1,0 +1,254 @@
+[
+  {
+    "nombre": "Pontificia Universidad Católica de Chile",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Chile",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Santiago de Chile",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Adolfo Ibáñez",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Andrés Bello",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Austral de Chile",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Autónoma de Chile",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Bernardo O'Higgins",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Católica del Norte",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Católica de la Santísima Concepción",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Católica de Temuco",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Central de Chile",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Antofagasta",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Atacama",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Concepción",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de La Frontera",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de La Serena",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de los Andes",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Los Lagos",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Magallanes",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Playa Ancha",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Talca",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Tarapacá",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad de Valparaíso",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad del Bío-Bío",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad del Desarrollo",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Diego Portales",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Finis Terrae",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Mayor",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad San Sebastián",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Técnica Federico Santa María",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "Universidad Tecnológica Metropolitana",
+    "tipo": "Universidad"
+  },
+  {
+    "nombre": "IP Agrario Adolfo Matthei",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP AIEP",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Carlos Casanueva",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Chileno Británico de Cultura",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Ciisa",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP de Arte y Comunicación Arcos",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP de Chile",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP del Comercio",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP del Valle Central",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Diego Portales",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Dr. Virgilio Gómez",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Duoc UC",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Eatri",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Escuela de Cine de Chile",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Escuela de Contadores Auditores de Santiago",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Escuela Moderna de Música",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Esucomex",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Inacap",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Instituto de Estudios Bancarios Guillermo Subercaseaux",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Instituto Internacional de Artes Culinarias y Servicios",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Instituto Nacional del Fútbol",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Instituto Superior de Artes y Ciencias de la Comunicación",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP IPG",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Iplacex",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Libertador de los Andes",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Los Lagos",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Los Leones",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Projazz",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Providencia",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Santo Tomás",
+    "tipo": "Instituto Profesional"
+  },
+  {
+    "nombre": "IP Vertical",
+    "tipo": "Instituto Profesional"
+  }
+]
