@@ -1,0 +1,120 @@
+[
+    {
+        "nombre": "AIEP",
+        "tipo": "Instituto",
+        "sedes": [
+            "Barrio Universitario",
+            "Bellavista",
+            "San Bernardo",
+            "San Joaquín",
+            "Santiago Norte",
+            "Osorno",
+            "Puerto Montt"
+        ]
+    },
+    {
+        "nombre": "Duoc UC",
+        "tipo": "Instituto",
+        "sedes": [
+            "Alameda",
+            "Alonso de Ovalle",
+            "Antonio Varas",
+            "Maipú",
+            "Melipilla",
+            "Plaza Norte",
+            "Plaza Oeste",
+            "Plaza Vespucio",
+            "Puente Alto",
+            "San Bernardo",
+            "San Carlos de Apoquindo",
+            "San Joaquín"
+        ]
+    },
+    {
+        "nombre": "INACAP",
+        "tipo": "Instituto",
+        "sedes": [
+            "Apoquindo",
+            "Maipú",
+            "Pérez Rosales",
+            "Puente Alto",
+            "Renca",
+            "Santiago Centro",
+            "Santiago Sur",
+            "Osorno",
+            "Puerto Montt",
+            "Valdivia",
+            "Aysén",
+            "Magallanes"
+        ]
+    },
+    {
+        "nombre": "Santo Tomás (IP)",
+        "tipo": "Instituto",
+        "sedes": [
+            "San Joaquín",
+            "Santiago Centro",
+            "Osorno",
+            "Puerto Montt",
+            "Valdivia",
+            "Magallanes"
+        ]
+    },
+    {
+        "nombre": "Universidad de Chile",
+        "tipo": "Universidad",
+        "sedes": [
+            "Casa Central (Santiago)",
+            "Campus Juan Gómez Millas",
+            "Campus Norte",
+            "Campus Sur"
+        ]
+    },
+    {
+        "nombre": "Pontificia Universidad Católica de Chile",
+        "tipo": "Universidad",
+        "sedes": [
+            "Casa Central (Santiago)",
+            "Campus San Joaquín",
+            "Campus Oriente",
+            "Campus Lo Contador",
+            "Campus Villarrica"
+        ]
+    },
+    {
+        "nombre": "Universidad Andrés Bello",
+        "tipo": "Universidad",
+        "sedes": [
+            "Casa Central (Santiago)",
+            "Sede Viña del Mar",
+            "Sede Concepción"
+        ]
+    },
+    {
+        "nombre": "Universidad Diego Portales",
+        "tipo": "Universidad",
+        "sedes": [
+            "Casa Central (Santiago)",
+            "Sede Manuel Rodríguez",
+            "Sede Ejército",
+            "Sede Vergara"
+        ]
+    },
+    {
+        "nombre": "Universidad Tecnológica Metropolitana (UTEM)",
+        "tipo": "Universidad",
+        "sedes": [
+            "Casa Central (Santiago)",
+            "Campus Macul",
+            "Campus Providencia"
+        ]
+    },
+    {
+        "nombre": "Universidad Finis Terrae",
+        "tipo": "Universidad",
+        "sedes": [
+            "Casa Central (Santiago)",
+            "Campus Pedro de Valdivia"
+        ]
+    }
+]
